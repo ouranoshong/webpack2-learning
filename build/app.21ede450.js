@@ -1,0 +1,2 @@
+webpackJsonp([1],{"0iRQ":function(a){a.exports={redButton:"redButton"}},"2twT":function(a,b,c){"use strict";Object.defineProperty(b,"__esModule",{value:!0});var d=c("U7vG"),e=c.n(d),f=c("0iRQ"),g=c.n(f);document.body.appendChild(function(){var a=document.createElement("div");return a.innerHTML="Hello Webpack",a.className=g.a.redButton,a}())}},["2twT"]);
+//# sourceMappingURL=app.21ede450.js.map
