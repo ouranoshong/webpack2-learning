@@ -1,0 +1,16 @@
+body {
+  background: cornsilk;
+
+  background-image: url('./logo.jpg');
+  background-repeat: no-repeat;
+  /*background-position: center;*/
+  background-size: cover;
+
+  display: flex;
+  /*margin: 0;
+  padding: 0;*/
+}
+
+.redButton {
+  background:#fff;
+}
